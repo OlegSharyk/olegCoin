@@ -1,0 +1,2 @@
+# olegCoin
+understanding blockchain
